@@ -1,6 +1,6 @@
-\# TP\_Dev\_Web\_BOUDAOUDI\_ARIBA
+# TP\_Dev\_Web\_BOUDAOUDI\_ARIBA
 
-\# I- Initialisation du projet et première route
+# I- Initialisation du projet et première route
 
 1\. Initialisation et Configuration
 
@@ -130,7 +130,7 @@ Test avec Postman :
 
 
 
-\# III- Validation fonctionnelle du cycle CRUD via les contrôleurs
+# III- Validation fonctionnelle du cycle CRUD via les contrôleurs
 
 
 
@@ -184,7 +184,7 @@ Test :
 
 
 
-\# IV- Sécurisation avec middleware
+# IV- Sécurisation avec middleware
 
 
 
@@ -224,7 +224,7 @@ Test Postman :
 
 
 
-\# V- Documentation et bonnes pratiques
+# V- Documentation et bonnes pratiques
 
 
 
