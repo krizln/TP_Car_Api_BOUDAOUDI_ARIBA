@@ -20,7 +20,7 @@ API REST complète pour gérer une collection de véhicules de collection. Ce pr
 
 1\. Cloner le projet :
 
-&nbsp;  `git clone \[URL\_DE\_VOTRE\_REPO]`
+&nbsp;  `git clone \[https://github.com/krizln/TP_Car_Api_BOUDAOUDI_ARIBA]`
 
 2\. Installer les dépendances :
 
